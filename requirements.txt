@@ -1,0 +1,5 @@
+telethon
+ffmpeg-python
+asyncio
+tempfile
+os
